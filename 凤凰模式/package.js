@@ -1,0 +1,10 @@
+extension["凤凰模式"]={
+	intro:"",
+	author:"",
+	netdisk:"",
+	forum:"",
+	version:"",
+	files:["bjlz.png","extension.js","jiangshifz.jpg","jiangshinj.jpg","jilueduijueJS.png",
+		"package.js","wujinmoshiJS.png","红方城池.jpg","蓝方城池.jpg"],
+	size:"206KB"
+};
