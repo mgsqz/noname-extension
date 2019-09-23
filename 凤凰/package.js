@@ -1,0 +1,9 @@
+extension["凤凰"]={
+	intro:"",
+	author:"yuan",
+	netdisk:"",
+	forum:"",
+	version:"1.0",
+	files:["firephoenix.jpg","extension.js","package.js"],
+	size:"1MB"
+};
